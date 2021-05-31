@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-public class HashMapEX {
+public class HashMapEx1 {
 
 	public static void main(String[] args) {
 //		Map 컬렉션 생성
